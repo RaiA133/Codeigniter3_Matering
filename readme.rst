@@ -14,6 +14,12 @@ for a given task.
 Release Information
 *******************
 
+https://www.youtube.com/playlist?list=PLFIM0718LjIVdFn6LHoD5gJ8UjvI1Baqp
+
+*******************
+Release Information
+*******************
+
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
