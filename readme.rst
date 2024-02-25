@@ -11,7 +11,7 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
-Release Information
+Bahan Belajar Link
 *******************
 
 https://www.youtube.com/playlist?list=PLFIM0718LjIVdFn6LHoD5gJ8UjvI1Baqp
